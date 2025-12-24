@@ -1,5 +1,5 @@
 # PortableHomes - Bug Reports
-Website link:https://modrinth.com/mod/morestrustures
+Website link:https://modrinth.com/project/portablehomes
 Welcome to the official bug report page for PortableHomes!
 
 This repository was created so the community can help us identify and track issues found in the mod. Your collaboration is essential to making the PortableHomes experience the best it can be.
